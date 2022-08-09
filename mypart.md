@@ -53,7 +53,7 @@
   
 ## 비용 함수(손실 함수)
   
-
+<br>
 <img src='http://drive.google.com/uc?export=view&id=1u1PrccqwL9089Qiy-BonTXnC9kWfR2go' /><br>
 회귀식을 모델링 할 경우 당연히 실제 데이터와 회귀식에는 오차가 발생 한다. <br>
 선형회귀는 위에 언급된 오류값(잔차)의 합이 최소가 되는 최적 회귀 계수를 찾는 것 <br>
@@ -71,7 +71,7 @@
 ## 비선형 회귀(Non-linear Regression)란?
   
 
-  
+  <br>
 <img src='http://drive.google.com/uc?export=view&id=1e_olc23H6aSwikssgh5qKIeNWuHs-jg9' /><br>
 
 비선형 모델은 입력되는 데이터(독립 변수, 종속 변수)를 어떻게 변형 하더라도 <br>
@@ -117,24 +117,31 @@
   이때 “어떠한 함수” 즉 인공신경망의 은닉층(hidden layer)에 사용되는 함수를 활성화 함수(Activation Function)라고 한다.
   <br><br>
 
+  <br>
   
   ### 1) 시그모이드(Sigmoid) 함수
 
-  
-  <img src='http://drive.google.com/uc?export=view&id=1UEOhAmePNFeBgyaq2t4Z8nvm-XV8cGTC' /><br>
-  
+  <br>
+  <img src='http://drive.google.com/uc?export=view&id=1UEOhAmePNFeBgyaq2t4Z8nvm-XV8cGTC' />
   위 그림과 같이, 생물학적인 뉴런의 수상돌기 역할을 하는것이 x1,x2,x3와 이들 각각의 가중치(파라미터)값 <br>
-  세타1,세타2,세타3 으로 구성된 입력 부분이다. 이들 입력을 통한 출력값은 h세타 함수로 표현되며, 이것이 활성화 함수이다. <br>
+  $\theta1,\theta2,\theta3$ 으로 구성된 입력 부분이다. 이들 입력을 통한 출력값은 $h_\theta$ 함수로 표현되며, 이것이 활성화 함수이다. <br>
   생물학적 뉴런의 세포체가 일정 용량을 넘어서면 외부로 출력값을 보내는것처럼, 활성화 함수 또한 일정 값을 넘어서면 1, <br>
   그 이하는 0을 출력하기위해 시그모이드 함수(Sigmoid function)를 사용할수있다. <br>
-
+  <br><br>
   <img src='http://drive.google.com/uc?export=view&id=1QPJFa1njS5xPT3p1PJyrFOncztNroVUO' /><br>
-  <img src='http://drive.google.com/uc?export=view&id=1HzowQ4-QHeYGDfvSFCwybnYDxRayh-FL' /><br>
+  
+  $sigmoid(x) = \frac{1}{1 +e^-x}$ <br>
+  
   시그모이드 함수는 Logistic 함수라고 불리기도 하며, <br>
   x의 값에 따라 0~1의 값을 출력하는 S자형 함수이다. <br>
   
-  <br><br>
-backpropagation : 2단 3단 정도의 레이어는 학습이 잘 되나, <br>
+  <br>
+  
+* 시그모이드 함수의 단점 
+  
+  
+  
+Backpropagation : 2단 3단 정도의 레이어는 학습이 잘 되나, <br>
 9단, 10단으로 넘어가면서 부터는 학습이 제대로 이루어 지지 않는 이유는, <br>
 역전파 방식에 있다고 볼 수 있다. <br>
 레이어가 많을 경우 각각의 단계의 값을 미분해서 최초 레이어까지 결과 값을 전달해가게 되는데, <br>
@@ -151,7 +158,7 @@ Vanishing Gradient: 따라서 여러 레이어를 갖고 있을 때, <br>
 
 
   ### 2) ReLU 함수
-
+<br>
   <img src='http://drive.google.com/uc?export=view&id=1erupIfNUQYgs7u70Tn65ZF9ryEOyuPKS' /><br>
   레이어의 층이 깊어질수록 내부 은닉층(hidden layer)를 활성화 시키는 함수로 <br>
   ReLU라는 활성화 함수를 사용하게 되는데, 이 함수는 쉽게 말해 0보다 작은 값이 나온 경우 0을 반환하고, <br>
