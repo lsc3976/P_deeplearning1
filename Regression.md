@@ -26,7 +26,7 @@
 변수들 사이의 함수적인 관련성을 규명하기 위해 어떤 수학적 모형(회귀식)을 가정하고 <br>
 이 회귀식을 측정된 변수들의 자료로부터 추정하는 통계적 분석 방법이다.<br><br>
 
-(사진) <br>
+<img src='http://drive.google.com/uc?export=view&id=13RLGQKAu6Pa2oeaEXyGpXkwLvTZFXpyR' /><br>
 
 이때 영향을 주는 원인을 독립변수라 하고 영향받아나온 결과를 종속변수라고한다. <br><br>
 
