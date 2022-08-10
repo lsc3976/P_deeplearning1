@@ -2,7 +2,7 @@
 
 <br>
 
-![img121.png](data:https://raw.githubusercontent.com/lsc3976/P_deeplearning1/main/image/121.png)
+![img121.png](https://raw.githubusercontent.com/lsc3976/P_deeplearning1/main/image/121.png)
 
 
 
