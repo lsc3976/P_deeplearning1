@@ -133,7 +133,6 @@
 2. 재무  
 딥 러닝의 신경망은 주식 가치를 예측하고 거래 전략을 개발하는 데 사용될 수 있으며 보안 위협을 감지하고 사기로부터 보호할 수도 있습니다.
 
-
 3. 헬스케어  
 딥 러닝은 추세와 행동을 분석하여 환자의 질병을 예측함으로써 보건의료 분야에서 중추적인 역할을 수행할 수 있습니다. 또한 보건의료 종사자는 딥 러닝 알고리즘을 활용하여 환자에 대한 최적의 검사 및 치료를 결정할 수 있습니다.
 
@@ -144,7 +143,6 @@
 ![image](https://user-images.githubusercontent.com/109254140/183793551-08848a7a-662e-4ace-8b88-330f86cb1b70.png)
 
 ## 1) 1차 AI붐(1956~1974) 
-
 
 * 다트머스 회의에서 존 매카시 교수가 다트머스 회의에서 인공지능 개념을 정의 인공지능 용어를 처음 사용 (1956)
 * 신경망을 인공적인 소프트웨어 아키텍쳐로 구성한 뒤, 가중치에 따라 유연하게 동작이 변화한다는 개념의 퍼셉트론의 등장(1958)
@@ -211,3 +209,8 @@
 * https://www.popit.kr/deep-learning-2/
 * https://mole-starseeker.tistory.com/40
 * https://rubber-tree.tistory.com/entry/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%AA%A8%EB%8D%B8-CNN-Convolutional-Neural-Network-%EC%84%A4%EB%AA%85
+* https://ocw.snu.ac.kr/sites/default/files/NOTE/IML_Lecture%20%2807%29.pdf
+* https://rubber-tree.tistory.com/entry/AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9D%B4%EB%9E%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%AA%A8%EB%8D%B8-%EC%A2%85%EB%A5%98
+* https://extsdd.tistory.com/220
+* https://www.youtube.com/watch?v=zepBCbWdNkc
+* https://www.youtube.com/watch?v=BUTP-YsD3nM
