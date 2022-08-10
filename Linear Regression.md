@@ -52,8 +52,10 @@
 
   이러한 다수의 독립 변수를 가지고 주택 가격을 예측할때 Y(종속변수)는 여전히 1개 이지만 <br>
   X(독립변수)는 여러개가 된다. 이것을 다중 선형 회귀 분석이라고 한다.
-  <br><br><br>
+  <br><br>
   
+  <img src="https://github.com/lsc3976/P_deeplearning1/blob/main/image/55525.png?raw=true" /> <br>
+  일반적인 기울기를 구하는 최소제곱법의 해<br><br>
   
 ## 손실 함수
 
