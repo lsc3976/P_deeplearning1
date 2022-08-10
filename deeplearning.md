@@ -203,7 +203,7 @@
 * https://hongong.hanbit.co.kr/ai-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%B4%9D%EC%A0%95%EB%A6%AC/
 
 ### 인공신경망
-https://compmath.korea.ac.kr/appmath2021/Perceptron.html
+* https://compmath.korea.ac.kr/appmath2021/Perceptron.html
 
 ### 가중치와 편향, 활성화함수
 * https://velog.io/@quasarhub/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0
