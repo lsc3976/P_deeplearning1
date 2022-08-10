@@ -92,6 +92,6 @@ a=(x-x의 평균)*(y-y의 평균)을  (x-x의 평균)제곱의 합  으로 나�
 결국 Linear Regression에 의해 분석 예측을 할수 있는 한 방법이다. <br><br>
 
 
-  
+<img src="/image/no1.png">
 
 
