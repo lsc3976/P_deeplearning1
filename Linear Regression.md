@@ -58,7 +58,7 @@
 ## 손실 함수
 
 <br>
-<img src='https://github.com/lsc3976/P_deeplearning1/blob/main/image/11.png?raw=true' /><br>
+<img src='/image/117.png' /><br>
  
 ```
 손실 함수 : 실제 y 값에 비해 가정한 모델 h(x))(추정값)이 얼마나 잘 예측했는지 판단하는 함수이다.
