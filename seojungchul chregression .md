@@ -53,17 +53,8 @@
 X축이 주택의 크기이고, Y축이 가격이라할 경우 1차 함수식으로 모델링할 수 있다.
  
 ! $Y^ = ω_0 + ω_1 ∗ $X <br>
-<br>![Alt text](/path/to/img.jpg)
-![Alt text](/path/to/img.jpg "Optional title")
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<img src="/image/no1.png">
 <br>
 <br>
 <br>
@@ -92,6 +83,6 @@ a=(x-x의 평균)*(y-y의 평균)을  (x-x의 평균)제곱의 합  으로 나�
 결국 Linear Regression에 의해 분석 예측을 할수 있는 한 방법이다. <br><br>
 
 
-<img src="/image/no1.png">
+
 
 
