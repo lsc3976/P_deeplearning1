@@ -76,9 +76,10 @@
 <br><br>
  
  
-<img src="/image/115.png"> <br>
- 
-평균 제곱 오차 (Mean Squre Error, MSE)의 경우
+<img src="/image/116.png"> <br>
+평균 제곱 오차 (Mean Squre Error, MSE)의 경우<br>
+n은 총 데이터, y는 출력결과이고 t는 실제 데이터의 값이다.
+출력결과 - 실제데이터의 차이 를 제곱(음수가 나오는걸 방지)한뒤 평균을 내어 표현하고있다.
  
 <br><br><br>
 
