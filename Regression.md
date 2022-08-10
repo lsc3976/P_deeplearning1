@@ -1,7 +1,11 @@
 # 2. 회귀 (regression)란?
 
 <br>
-![img121]()
+
+![img121.png](data:https://raw.githubusercontent.com/lsc3976/P_deeplearning1/main/image/121.png)
+
+
+
 회귀분석(regression analysis)은 영국 학자 프랜시스 골턴(Francis Galton)에 의해 <br>
 '평균으로의 회귀'(regression to the mean)현상을 증명하기위해 처음 고안되었다.  <br>
 '평균으로의 회귀'는 부모와 아이 키의 상관관계를 분석할때 부모의 키가 아주 크더라도 <br>
