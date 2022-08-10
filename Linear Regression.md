@@ -179,6 +179,6 @@
 
   <br><br><br>
   
-  사진 및 참고자료 출처 : [출처1](https://ko.d2l.ai/chapter_deep-learning-basics/linear-regression.html) [출처2](https://blog.daum.net/ejleep1/913) [출처3](https://brunch.co.kr/@gdhan/6) [출처4](http://www.gisdeveloper.co.kr/?p=8395) [출처5](https://076923.github.io/posts/Python-pytorch-4/) [출처6](https://velog.io/@hh3990/%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80Linear-Regression) [출처7](https://medium.com/@kmkgabia/ml-sigmoid-%EB%8C%80%EC%8B%A0-relu-%EC%83%81%ED%99%A9%EC%97%90-%EB%A7%9E%EB%8A%94-%ED%99%9C%EC%84%B1%ED%99%94-%ED%95%A8%EC%88%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-c65f620ad6fd
+  사진 및 참고자료 출처 : [출처1](https://ko.d2l.ai/chapter_deep-learning-basics/linear-regression.html) [출처2](https://needjarvis.tistory.com/564) [출처4](http://www.gisdeveloper.co.kr/?p=8395) [출처5](https://076923.github.io/posts/Python-pytorch-4/) [출처6](https://velog.io/@hh3990/%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80Linear-Regression) [출처7](https://medium.com/@kmkgabia/ml-sigmoid-%EB%8C%80%EC%8B%A0-relu-%EC%83%81%ED%99%A9%EC%97%90-%EB%A7%9E%EB%8A%94-%ED%99%9C%EC%84%B1%ED%99%94-%ED%95%A8%EC%88%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-c65f620ad6fd
 ) [출처8](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=handuelly&logNo=221824080339) [출처9](https://happy-obok.tistory.com/55)
   
