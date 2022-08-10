@@ -127,7 +127,7 @@
 
 
   <img src='https://github.com/lsc3976/P_deeplearning1/blob/main/image/120.png?raw=true' /><br>
-  입력 신호의 총합을 출력 신호로 변환하는 함수를 일반적으로 활성화 함수라고 한다. <br>
+  뉴런처럼 입력 신호의 총합을 출력 신호로 변환하는 함수를 일반적으로 활성화 함수라고 한다. <br>
   입력 신호의 총합이 활성화를 일으키는지를 정하는 역할이다.<br>
   위 그림은 신경망 그림으로 가중치(w)가 달린 입력 신호(x)와 편향(b)의 총합을 계산하고<br>
   그 다음에 함수 f에 넣어 출력하는 흐름을 보여준다.<br>
@@ -146,8 +146,21 @@
   시그모이드 함수는 Logistic 함수라고 불리기도 하며, <br>
   x의 값에 따라 0~1의 값을 출력하는 S자형 함수이다. <br>
  
- * 시그모이드 함수의 탄생 배경
+ 
+ * 시그모이드 함수의 배경
+ 
+ ![img118.png](https://github.com/lsc3976/P_deeplearning1/blob/main/image/118.png?raw=true) <br>
+ 
+  최초로 사용한 활성화 함수는 계단 함수로써 오로지 0과 1값만을 반환했다. <br>
+  계단함수는 데이터가 너무 극적으로 변하는 모양새이기 때문에 딥러닝에서는 시그모이드와같은 <br>
+  0.345 등과 같이 정교한 수를 전달할 수 있는 시그모이드 함수가 탄생하게 된것이다. <br>
+  하지만 딥러닝은 기울기(a)를 이용해서 값을 찾아나아가는데 <br>
+  결국 층이 많아지면 점점 값이 0에 수렴되어버리는 기울기가 사라지는 문제(Vanishing gradient problem)이 발생하면서 <br>
+  아래의 ReLU 함수가 등장하게 된다. <br>
+ 
+ 
   
+ 
   <br>
   
 
@@ -156,7 +169,7 @@
   ### 2) ReLU (Rectified Linear Unit) 함수
 <br>
   <img src='https://github.com/lsc3976/P_deeplearning1/blob/main/image/783.png?raw=true' /><br>
-  레이어의 층이 깊어질수록 내부 은닉층(hidden layer)를 활성화 시키는 함수로 <br>
+  레이어의 층이 깊어질수록 내부 은닉층(hidden layer)을 활성화 시키는 함수로 <br>
   ReLU라는 활성화 함수를 사용하게 되는데, 이 함수는 쉽게 말해 0보다 작은 값이 나온 경우 0을 반환하고, <br>
   0보다 큰 값이 나온 경우 그 값을 그대로 반환하는 함수다. 0보다 큰 값일 경우 1을 반환하는 시그모이드와 다르다. <br>
   따라서 내부 은닉층에는 ReLU를 적용하고, 마지막 output layer에서만 시그모이드 함수를 적용하면 <br>
@@ -167,5 +180,5 @@
   <br><br><br>
   
   사진 및 참고자료 출처 : [출처1](https://ko.d2l.ai/chapter_deep-learning-basics/linear-regression.html) [출처2](https://blog.daum.net/ejleep1/913) [출처3](https://brunch.co.kr/@gdhan/6) [출처4](http://www.gisdeveloper.co.kr/?p=8395) [출처5](https://076923.github.io/posts/Python-pytorch-4/) [출처6](https://velog.io/@hh3990/%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80Linear-Regression) [출처7](https://medium.com/@kmkgabia/ml-sigmoid-%EB%8C%80%EC%8B%A0-relu-%EC%83%81%ED%99%A9%EC%97%90-%EB%A7%9E%EB%8A%94-%ED%99%9C%EC%84%B1%ED%99%94-%ED%95%A8%EC%88%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-c65f620ad6fd
-) [출처8](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=handuelly&logNo=221824080339)
+) [출처8](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=handuelly&logNo=221824080339) [출처9](https://happy-obok.tistory.com/55)
   
