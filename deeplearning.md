@@ -212,5 +212,7 @@
 * https://ocw.snu.ac.kr/sites/default/files/NOTE/IML_Lecture%20%2807%29.pdf
 * https://rubber-tree.tistory.com/entry/AI-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9D%B4%EB%9E%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%AA%A8%EB%8D%B8-%EC%A2%85%EB%A5%98
 * https://extsdd.tistory.com/220
+* 
+##AI 역사
 * https://www.youtube.com/watch?v=zepBCbWdNkc
 * https://www.youtube.com/watch?v=BUTP-YsD3nM
