@@ -199,22 +199,22 @@
 -> 통계 기반 머신러닝은 이 분류와 예측을 프로그램화한 것으로 분류와 예측을 주어진 데이터를 자동으로 계산해 특징량 (feature)을 추출합니다.
 
 # 주석
-## 딥러닝
+### 인공지능, 머신러닝, 딥러닝의 개념
 * https://hongong.hanbit.co.kr/ai-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%B4%9D%EC%A0%95%EB%A6%AC/
 
-## 인공신경망
+### 인공신경망
 https://compmath.korea.ac.kr/appmath2021/Perceptron.html
 
-## 가중치와 편향, 활성화함수
+### 가중치와 편향, 활성화함수
 * https://velog.io/@quasarhub/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0
 * https://blog.naver.com/PostView.nhn?blogId=collcr&logNo=222311822015&parentCategoryNo=&categoryNo=22&viewDate=&isShowPopularPosts=true&from=search
 https://blog.naver.com/PostView.nhn?blogId=handuelly&logNo=221824080339
 
-## 딥러닝의 구분
+### 딥러닝의 구분
 * https://thebook.io/080244/part02/unit04/01/
 * http://dlwiki.finfra.com/algorithm:dnn
 * https://blogs.sas.com/content/saskorea/2017/08/22/%EC%B5%9C%EC%A0%81%EC%9D%98-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%84-%EA%B3%A0%EB%A5%B4%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%B9%98%ED%8A%B8/
 * http://blog.skby.net/rnn-recurrent-neural-network/
 
-## AI 역사
+### AI 역사
 * https://hongong.hanbit.co.kr/ai-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%B4%9D%EC%A0%95%EB%A6%AC/
