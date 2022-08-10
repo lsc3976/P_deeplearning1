@@ -138,12 +138,6 @@
   
   ### 1) 시그모이드(Sigmoid) 함수
 
-  <br>
-  <img src='https://github.com/lsc3976/P_deeplearning1/blob/main/image/777.png?raw=true' />
-  위 그림과 같이, 생물학적인 뉴런의 수상돌기 역할을 하는것이 x1,x2,x3와 이들 각각의 가중치(파라미터)값 <br>
-  $\theta1,\theta2,\theta3$ 으로 구성된 입력 부분이다. 이들 입력을 통한 출력값은 $h_\theta$ 함수로 표현되며, 이것이 활성화 함수이다. <br>
-  생물학적 뉴런의 세포체가 일정 용량을 넘어서면 외부로 출력값을 보내는것처럼, 활성화 함수 또한 일정 값을 넘어서면 1, <br>
-  그 이하는 0을 출력하기위해 시그모이드 함수(Sigmoid function)를 사용할수있다. <br>
   <br><br>
   <img src='https://github.com/lsc3976/P_deeplearning1/blob/main/image/778.png?raw=true' /><br>
   
@@ -151,6 +145,8 @@
   
   시그모이드 함수는 Logistic 함수라고 불리기도 하며, <br>
   x의 값에 따라 0~1의 값을 출력하는 S자형 함수이다. <br>
+ 
+ * 시그모이드 함수의 탄생 배경
   
   <br>
   
