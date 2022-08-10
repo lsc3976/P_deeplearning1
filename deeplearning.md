@@ -215,6 +215,8 @@ https://blog.naver.com/PostView.nhn?blogId=handuelly&logNo=221824080339
 * http://dlwiki.finfra.com/algorithm:dnn
 * https://blogs.sas.com/content/saskorea/2017/08/22/%EC%B5%9C%EC%A0%81%EC%9D%98-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%84-%EA%B3%A0%EB%A5%B4%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%B9%98%ED%8A%B8/
 * http://blog.skby.net/rnn-recurrent-neural-network/
+### 딥러닝의 활용용도
+* https://www.oracle.com/kr/data-science/machine-learning/what-is-deep-learning/
 
 ### AI 역사
 * https://hongong.hanbit.co.kr/ai-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%B4%9D%EC%A0%95%EB%A6%AC/
