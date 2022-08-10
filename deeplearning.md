@@ -101,6 +101,7 @@
 ### 3. 합성곱 신경망(Convolutional Neural Network, CNN) 
 ![image](https://user-images.githubusercontent.com/109254140/183793500-f733ad80-69b9-45a1-8783-8bc783afe9e9.png)
 
+* 이미지 공간 정보를 유지한체로 학습이 가능한 모델
 * 시각세포의 작동 원리를 본떠서 만들고 이미지를 특정한 영역별로 추출하여 학습시킨다.
 * 이미지 및 비디오 인식, 추천 시스템, 이미지 분료, 의료 이미지 분석 및 자연어 처리에 응용된다.
 * 이미지를 하나의 데이터가 아닌, 여러 개로 분할하여 처리 할수있다.
@@ -109,7 +110,7 @@
 ### 4.  순환 신경망(Recurrent Neural Network, RNN) 
 ![image](https://user-images.githubusercontent.com/109254140/183793525-a1e47561-94e1-4599-a961-d9ae6690fc4e.png)
 
-* 재귀 신경망이라고도 불리며 하나의 신경망을 계속적으로 반복해서 학습하는 것을 의미한다.  
+* 하나의 신경망을 계속적으로 반복해서 학습하는 것을 의미한다.  
 * 연속데이터에 대한 결과를 예측하거나 분류할때 사용된다.
 * 필기 인식이나 음성 인식같은 데이터를 처리하는데 적용할 수 있다.
 
@@ -209,3 +210,4 @@ https://6u2ni.tistory.com/39
 https://studyenthusiast-26.tistory.com/58
 https://www.popit.kr/deep-learning-2/
 https://mole-starseeker.tistory.com/40
+https://rubber-tree.tistory.com/entry/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%AA%A8%EB%8D%B8-CNN-Convolutional-Neural-Network-%EC%84%A4%EB%AA%85
