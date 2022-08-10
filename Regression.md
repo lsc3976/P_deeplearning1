@@ -55,10 +55,14 @@ $W_1,W_2,W_3, ... W_n$은 독립변수의 값에 영향을 주는 회귀 계수(
 
 
 ### 단순 회귀분석 (Simple Regression Analysis)
+
+![ima122.png](https://github.com/lsc3976/P_deeplearning1/blob/main/image/122.png?raw=true)<br>
 종속변수에 영향을 미치는 독립변수가 1개이면 단순 회귀분석이라고한다.<br>
 (ex : 독립변수를 근무년수로, 월급을 종속변수로 설정하여 인과관계를 분석)<br><br>
 
 ### 다중 회귀분석 (Multiple Regression Analysis)
+
+![ima122.png](https://github.com/lsc3976/P_deeplearning1/blob/main/image/123.png?raw=true)<br>
 2개 이상의 독립변수를 통해 종속변수에 미치는 인과관계를 분석한다.<br>
 (ex : 독립변수를 나이, 근무년수, 이직횟수 등으로 다양화 하여 종속변수인 월급을 분석)<br><br>
 
