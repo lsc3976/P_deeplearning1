@@ -202,12 +202,12 @@
 
 # 주석
 
-https://hongong.hanbit.co.kr/ai-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%B4%9D%EC%A0%95%EB%A6%AC/
-https://truman.tistory.com/170
-https://blog.naver.com/PostView.nhn?blogId=collcr&logNo=222311822015&parentCategoryNo=&categoryNo=22&viewDate=&isShowPopularPosts=true&from=search
-http://contents2.kocw.or.kr/KOCW/data/document/2020/edu1/bdu/kimjunhee1118/141.pdf
-https://6u2ni.tistory.com/39
-https://studyenthusiast-26.tistory.com/58
-https://www.popit.kr/deep-learning-2/
-https://mole-starseeker.tistory.com/40
-https://rubber-tree.tistory.com/entry/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%AA%A8%EB%8D%B8-CNN-Convolutional-Neural-Network-%EC%84%A4%EB%AA%85
+* https://hongong.hanbit.co.kr/ai-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%B4%9D%EC%A0%95%EB%A6%AC/
+* https://truman.tistory.com/170
+* https://blog.naver.com/PostView.nhn?blogId=collcr&logNo=222311822015&parentCategoryNo=&categoryNo=22&viewDate=&isShowPopularPosts=true&from=search
+* http://contents2.kocw.or.kr/KOCW/data/document/2020/edu1/bdu/kimjunhee1118/141.pdf
+* https://6u2ni.tistory.com/39
+* https://studyenthusiast-26.tistory.com/58
+* https://www.popit.kr/deep-learning-2/
+* https://mole-starseeker.tistory.com/40
+* https://rubber-tree.tistory.com/entry/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%AA%A8%EB%8D%B8-CNN-Convolutional-Neural-Network-%EC%84%A4%EB%AA%85
