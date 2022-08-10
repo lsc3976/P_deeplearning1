@@ -25,7 +25,7 @@
   
   
 
-  <img src='http://drive.google.com/uc?export=view&id=1y46M6PGvkEk6Ieff778jjoLr857uBpDc' /><br>
+  <img src='https://github.com/lsc3976/P_deeplearning1/blob/main/image/10.png?raw=true' /><br>
   (일반적인 단순 선형회귀)
   <br><br>
   
@@ -58,7 +58,7 @@
 ## 비용 함수(손실 함수)
   
 <br>
-<img src='http://drive.google.com/uc?export=view&id=1u1PrccqwL9089Qiy-BonTXnC9kWfR2go' /><br>
+<img src='https://github.com/lsc3976/P_deeplearning1/blob/main/image/11.png?raw=true' /><br>
 회귀식을 모델링 할 경우 당연히 실제 데이터와 회귀식에는 오차가 발생 한다. <br>
 선형회귀는 위에 언급된 오류값(잔차)의 합이 최소가 되는 최적 회귀 계수를 찾는 것 <br>
 (가장 정확한 예측선을 긋는 것)이 궁극적인 목표가 된다.
@@ -76,7 +76,7 @@
   
 
   <br>
-<img src='http://drive.google.com/uc?export=view&id=1e_olc23H6aSwikssgh5qKIeNWuHs-jg9' /><br>
+<img src='https://github.com/lsc3976/P_deeplearning1/blob/main/image/12.png?raw=true' /><br>
 
 비선형 모델은 입력되는 데이터(독립 변수, 종속 변수)를 어떻게 변형 하더라도 <br>
 회귀 계수를 선형 결합식으로 표현할 수 없는 모델을 말한다. <br>
@@ -100,7 +100,7 @@
 ### 뉴런에서 해답 가져오기
   
   
-  <img src='http://drive.google.com/uc?export=view&id=1fC_uck52AeionPy3rQu3lpOD-cxuGmko' /><br>
+  <img src='https://github.com/lsc3976/P_deeplearning1/blob/main/image/133.png?raw=true' /><br>
   인간은 컴퓨터와 달리 목소리, 사진, 언어 와 같은 Unstructrued Data를 쉽게 이해하고 활용 가능하다. <br>
   그것은 뇌의 뉴런, 수상돌기로부터 특정 정보 $x_n$를 받아들이고 시텝틱 가중치 $w_i$를 적용하는 일련의 과정을 거치기때문이다.<br>
   이 가중치는 입력에 얼마나 반응해야하는지를 정의한다. ( $x_n$ $w_i$를 통해 활성화)<br>
@@ -115,7 +115,7 @@
   ### 활성화 함수의 정의
 
 
-  <img src='http://drive.google.com/uc?export=view&id=12IYic7yWwNOFjnkYrLnbhzLg35iTm00V' /><br>
+  <img src='https://github.com/lsc3976/P_deeplearning1/blob/main/image/14.png?raw=true' /><br>
   딥러닝에서 사용하는 인공신경망들은 이전 레이어로부터 값을 입력받아 <br>
   “어떠한 함수”를 통과시킨 후 그 결과를 다음 레이어로 출력한다.<br>
   이때 “어떠한 함수” 즉 인공신경망의 은닉층(hidden layer)에 사용되는 함수를 활성화 함수(Activation Function)라고 한다.
@@ -126,13 +126,13 @@
   ### 1) 시그모이드(Sigmoid) 함수
 
   <br>
-  <img src='http://drive.google.com/uc?export=view&id=1UEOhAmePNFeBgyaq2t4Z8nvm-XV8cGTC' />
+  <img src='https://github.com/lsc3976/P_deeplearning1/blob/main/image/777.png?raw=true' />
   위 그림과 같이, 생물학적인 뉴런의 수상돌기 역할을 하는것이 x1,x2,x3와 이들 각각의 가중치(파라미터)값 <br>
   $\theta1,\theta2,\theta3$ 으로 구성된 입력 부분이다. 이들 입력을 통한 출력값은 $h_\theta$ 함수로 표현되며, 이것이 활성화 함수이다. <br>
   생물학적 뉴런의 세포체가 일정 용량을 넘어서면 외부로 출력값을 보내는것처럼, 활성화 함수 또한 일정 값을 넘어서면 1, <br>
   그 이하는 0을 출력하기위해 시그모이드 함수(Sigmoid function)를 사용할수있다. <br>
   <br><br>
-  <img src='http://drive.google.com/uc?export=view&id=1QPJFa1njS5xPT3p1PJyrFOncztNroVUO' /><br>
+  <img src='https://github.com/lsc3976/P_deeplearning1/blob/main/image/778.png?raw=true' /><br>
   
   $sigmoid(x) = \frac{1}{1 +e^-x}$ <br>
   
@@ -163,7 +163,7 @@ Vanishing Gradient: 따라서 여러 레이어를 갖고 있을 때, <br>
 
   ### 2) ReLU 함수
 <br>
-  <img src='http://drive.google.com/uc?export=view&id=1erupIfNUQYgs7u70Tn65ZF9ryEOyuPKS' /><br>
+  <img src='https://github.com/lsc3976/P_deeplearning1/blob/main/image/783.png?raw=true' /><br>
   레이어의 층이 깊어질수록 내부 은닉층(hidden layer)를 활성화 시키는 함수로 <br>
   ReLU라는 활성화 함수를 사용하게 되는데, 이 함수는 쉽게 말해 0보다 작은 값이 나온 경우 0을 반환하고, <br>
   0보다 큰 값이 나온 경우 그 값을 그대로 반환하는 함수다. 0보다 큰 값일 경우 1을 반환하는 시그모이드와 다르다. <br>
