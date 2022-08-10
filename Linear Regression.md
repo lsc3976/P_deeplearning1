@@ -126,10 +126,12 @@
   ### 활성화 함수의 정의
 
 
-  <img src='https://github.com/lsc3976/P_deeplearning1/blob/main/image/14.png?raw=true' /><br>
-  딥러닝에서 사용하는 인공신경망들은 이전 레이어로부터 값을 입력받아 <br>
-  “어떠한 함수”를 통과시킨 후 그 결과를 다음 레이어로 출력한다.<br>
-  이때 “어떠한 함수” 즉 인공신경망의 은닉층(hidden layer)에 사용되는 함수를 활성화 함수(Activation Function)라고 한다.
+  <img src='https://github.com/lsc3976/P_deeplearning1/blob/main/image/120.png?raw=true' /><br>
+  입력 신호의 총합을 출력 신호로 변환하는 함수를 일반적으로 활성화 함수라고 한다. <br>
+  입력 신호의 총합이 활성화를 일으키는지를 정하는 역할이다.<br>
+  위 그림은 신경망 그림으로 가중치(w)가 달린 입력 신호(x)와 편향(b)의 총합을 계산하고<br>
+  그 다음에 함수 f에 넣어 출력하는 흐름을 보여준다.<br>
+ 
   <br><br>
 
   <br>
